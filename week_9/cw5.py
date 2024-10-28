@@ -1,0 +1,5 @@
+s = set()
+s.add(1)
+s.add("b")
+s.add("c")
+print(s)
